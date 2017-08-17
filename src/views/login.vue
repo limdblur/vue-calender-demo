@@ -16,6 +16,9 @@
 
 <script>
 import { getQueryString } from '../assets/js/base.js'
+// http://localhost:8080/index.html?activity_id=59546453c5f45c0001dfde8c#/login
+// yyg
+// 12305
 export default {
   data () {
     return {
